@@ -152,7 +152,7 @@ The following table lists the build numbers and release dates for Visual Studio 
 | 15.1 Preview 1 | Preview | March 7, 2017 | 15.0.26304.0 |
 | 15.0.0 | Release | March 7, 2017 | 15.0.26228.4 |
 
-[!INCLUDE[install_get_support_md](includes/install_get_support_md.md)]
+[!INCLUDE [install_get_support_md](includes/install_get_support_md.md)]
 
 ## See also
 
